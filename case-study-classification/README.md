@@ -30,14 +30,13 @@ The data set consists of information on 18,000 current bank customers in the stu
 
 
 
-### Summary of Visual and Programmatic Assessment
+## Summary of Visual and Programmatic Assessment
 
-### Cleaning steps
+## Cleaning steps
 
-### Wrangingling steps
+## Wrangingling steps
 
 ## Summary of Findings
-
 
 ## Key Insights for Presentation
 
